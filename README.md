@@ -1,20 +1,4 @@
-# My App Project
-
-This repository contains documentation and download link for my app project.
-
-## 📦 Download App Project
-
-Since the full project is larger than GitHub's upload limit, you can download it from the link below:
-
-👉 [Download the full app project]# My App Project
-
-This repository contains documentation and download link for my app project.
-
-## 📦 Download App Project
-
-Since the full project is larger than GitHub's upload limit, you can download it from the link below:
-
-👉 [Download the full app project](# My App Project
+# learningapp
 
 This repository contains documentation and download link for my app project.
 
@@ -28,6 +12,7 @@ Since the full project is larger than GitHub's upload limit, you can download it
 
 - App Type: Android/iOS/Web
 - Built With: Flutter,dart.
+- it contain java and python courses
 ## 🛠 Setup Instructions
 
 After downloading:
