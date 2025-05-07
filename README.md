@@ -27,49 +27,15 @@ Since the full project is larger than GitHub's upload limit, you can download it
 ## 📱 App Info
 
 - App Type: Android/iOS/Web
-- Built With: Flutter/React Native/Java/etc.
-- Features: 
-  - Feature 1
-  - Feature 2
-  - Feature 3
-
+- Built With: Flutter,dart.
 ## 🛠 Setup Instructions
 
 After downloading:
 1. Extract the ZIP file
 2. Open in Android Studio / VS Code
-3. Run `flutter pub get` or your relevant command
+3. run in trminal
+4.flutter pub get
+5.flutter run 
 )
+👉connect the mobile  to  laptop through usb and make sure that trun on the usb debuging option to instal the app in your mobile.
 
-## 📱 App Info
-
-- App Type: Android/iOS/Web
-- Built With: Flutter/React Native/Java/etc.
-- Features: 
-  - Feature 1
-  - Feature 2
-  - Feature 3
-
-## 🛠 Setup Instructions
-
-After downloading:
-1. Extract the ZIP file
-2. Open in Android Studio / VS Code
-3. Run `flutter pub get` or your relevant command
-
-
-## 📱 App Info
-
-- App Type: Android/iOS/Web
-- Built With: Flutter/React Native/Java/etc.
-- Features: 
-  - Feature 1
-  - Feature 2
-  - Feature 3
-
-## 🛠 Setup Instructions
-
-After downloading:
-1. Extract the ZIP file
-2. Open in Android Studio / VS Code
-3. Run `flutter pub get` or your relevant command
