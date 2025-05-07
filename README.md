@@ -6,7 +6,7 @@ This repository contains documentation and download link for my app project.
 
 Since the full project is larger than GitHub's upload limit, you can download it from the link below:
 
-👉 [Download the full app project]([https://drive.google.com/your-shared-link](https://drive.google.com/drive/folders/19YQrx0wqvHLXyFF3WLvlU0t7X1FVRUD-?usp=drive_link))
+https://drive.google.com/drive/folders/19YQrx0wqvHLXyFF3WLvlU0t7X1FVRUD-?usp=drive_link
 
 ## 📱 App Info
 
